@@ -1,4 +1,4 @@
-# Simulating Weak Values in Quantum Computing (PennyLane Demo Proposal)
+# Simulating Weak Values in Quantum Computing 
 
 This repository contains a demonstration notebook for PennyLane showcasing how to simulate **weak measurements and weak values** in quantum computing.
 
